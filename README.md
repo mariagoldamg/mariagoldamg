@@ -19,9 +19,9 @@
 
 # ☑️ Check out my deployed projects:
 
-[JavaScript Portfolio](https://bubble-cookie-turquoise.glitch.me)
-[Yoga Shala Full Stack Project](https://yoga-shala-fullstack.netlify.app/)
-[Find my Recipe REST API Project](https://findmyrecipeproject.netlify.app/)
+[JavaScript Portfolio](https://bubble-cookie-turquoise.glitch.me) | 
+[Yoga Shala Full Stack Project](https://yoga-shala-fullstack.netlify.app/) | 
+[Find my Recipe REST API Project](https://findmyrecipeproject.netlify.app/) | 
 [Meal Planner Full Stack Prohect](https://mealplannermongodb.netlify.app/)
 
 
