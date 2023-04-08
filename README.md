@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning TypeScript and Next.js
-- 💬 Ask me anything about front-end development
-- ⚡ Fun fact: ...
+- 💬 Ask me anything about front-end development and career change
+- ⚡ Fun fact: I am a Yoga Instructor RYT 200
 
 
 
