@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariagoldamg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Check out my deployed projects:
+# ☑️ Check out my deployed projects:
 
 [JavaScript Portfolio](https://bubble-cookie-turquoise.glitch.me)
 [Yoga Shala Full Stack Project](https://yoga-shala-fullstack.netlify.app/)
