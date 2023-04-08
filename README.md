@@ -17,6 +17,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariagoldamg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+Check out my deployed projects:
+
+[JavaScript Portfolio](https://bubble-cookie-turquoise.glitch.me)
+[Yoga Shala Full Stack Project](https://yoga-shala-fullstack.netlify.app/)
+[Find my Recipe REST API Project](https://findmyrecipeproject.netlify.app/)
+[Meal Planner Full Stack Prohect](https://mealplannermongodb.netlify.app/)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mariagoldamg&icon=0&color=0)](https://visitcount.itsvg.in)
 
