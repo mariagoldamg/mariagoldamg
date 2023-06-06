@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Maria
-- 🌱 I’m currently working my Portfolio and Open Source projects
+- 🌱 I’m currently working on my Portfolio and Open Source projects
 - 💬 Ask me anything about fullstack development and career change
 - ⚡ Fun fact: I am a Yoga Instructor RYT 200
 
