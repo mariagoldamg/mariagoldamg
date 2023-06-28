@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariagoldamg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=mariagoldamg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mariagoldamg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  -->
 
 
 # ☑️ Check out my deployed projects:
@@ -20,7 +20,7 @@
 [JavaScript Portfolio](https://jsuniverse-mariamelnikova.netlify.app) | 
 [Yoga Shala Full Stack Project](https://yogashala-mernstack-mariamelnikova.netlify.app/) | 
 [Find my Recipe REST API Project](https://findmyrecipeproject.netlify.app/) | 
-[Meal Planner Full Stack Project](https://mealplannermongodb.netlify.app/)
+
 
 
 ---
